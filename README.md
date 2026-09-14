@@ -1,5 +1,6 @@
 # demo-file
 This is my demo file.
 <br>
-Author ->> commit to changes
+Author ->> only the person can commit changes
+
 
